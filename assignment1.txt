@@ -1,0 +1,44 @@
+1.various sources of BigData:
+
+The various sources of BigData are,
+*Search engine
+*Social media
+*Data storage
+*Sensor data
+*Stocks
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2.3v's of BigData:
+
+
+Variety:Variety refers to type of data.It can be structured,unstructured or semi-structured.
+
+
+Velocity:Velocity refers to speed of data processing.
+
+
+Volume:Volume refers to amount or quantity of data.It denotes data size.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3.Horizontal Scaling and Vertical Scaling:
+
+Horizontal Scaling:In horizontal scaling more machines are added to the pool of resources.
+
+Vertical Scaling:In vertical scaling more power like cpu,RAM are added to an
+existing machine.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4.Need and Working of Hadoop:
+
+Working of hadoop:
+Hadoop is an open-source software framework used for distributed processing
+and storage of very large data sets.Hadoop splits the large blocks and
+distributes them across nodes each offering local computation and storage.
+Two main components of hadoop are HDFS and MAPREDUCE.The library itself is designed
+to detect and handle failures there by providing  high availability service on top of 
+cluster of computers.
+
+Need for Hadoop:
+*Hadoop detects faults and provide automatic recovery
+*Hadoop Coordinates tasks and combines results of all machines
+
